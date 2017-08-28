@@ -2,7 +2,7 @@
 
 This course provides basic programming concepts using C/C++ programming language, knowledge of data presentation in computing, numeric systems and methods to solve programming problems. Moreover, this course also presents computational thinking, programming styles, approaches to problem solving and instructions to create console applications using the standard I/O routines in C/C++ with MS Visual Studio.
 
-### Schedule
+## Schedule
 
 Tuesdays: 7:00 am - 10:30 am
 Location: E1-111
@@ -14,8 +14,11 @@ Find me in A-400A or Javi Makerspace
 
 ## Grading
 
-Assignments: 10%
-Exams: 30%
-Participation: 10%
-Final Exam: 50%
+* Assignments: 10%
+* Exams: 30%
+* Participation: 10%
+* Final Exam: 50%
 
+## Presentation Slides
+
+* [Course Overview and Introduction] (https://docs.google.com/presentation/d/1On_m9Qj4ZeY14r0Kd8TazLDlSPoegiJQjGEe_adF1Bg/edit?usp=sharing)
