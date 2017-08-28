@@ -1,8 +1,8 @@
 ## Welcome to Introduction To Programming 
 
-## :metal: :computer: :metal: :clap:  :clap:  :clap: :triumph: :triumph:  :clap: :clap:  :clap: :triumph: :metal: :computer: :metal:
+## :metal: :computer: :metal: :clap:  :clap:  :clap: :triumph: :triumph: :triumph: :clap: :clap:  :clap:  :metal: :computer: :metal:
 
-This **English Language** course provides basic programming concepts using C/C++ programming language, knowledge of data presentation in computing, numeric systems and methods to solve programming problems. Moreover, this course also presents computational thinking, programming styles, approaches to problem solving and instructions to create console applications using the standard I/O routines in C/C++ with MS Visual Studio.
+This **English Language** course provides basic programming concepts using C/C++ programming language, knowledge of data presentation in computing, numeric systems and methods to solve programming problems. Moreover, this course also presents **computational thinking**, programming styles, approaches to problem solving and instructions to create console applications using the standard I/O routines in C/C++ with MS Visual Studio.
 
 ## Schedule
 
