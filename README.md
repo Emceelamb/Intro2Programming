@@ -1,14 +1,16 @@
 ## Welcome to Introduction To Programming 
 
-## :metal: :computer: :clap: :triumph: :metal: :computer: :clap: :triumph:
+## :metal: :computer: :metal: :clap:  :clap:  :clap: :triumph: :triumph: :triumph: :metal: :computer: :metal:
 
-This course provides basic programming concepts using C/C++ programming language, knowledge of data presentation in computing, numeric systems and methods to solve programming problems. Moreover, this course also presents computational thinking, programming styles, approaches to problem solving and instructions to create console applications using the standard I/O routines in C/C++ with MS Visual Studio.
+This English Language course provides basic programming concepts using C/C++ programming language, knowledge of data presentation in computing, numeric systems and methods to solve programming problems. Moreover, this course also presents computational thinking, programming styles, approaches to problem solving and instructions to create console applications using the standard I/O routines in C/C++ with MS Visual Studio.
 
 ## Schedule
 
 :clock7: Tuesdays: 7:00 am - 10:30 am 
 
 :office: Location: E1-111
+
+:sound: Lab Hours: To Be Announced
 
 ## Contact
 
@@ -27,7 +29,7 @@ This course provides basic programming concepts using C/C++ programming language
 * FHQ English Club
 * Teach Learn Javi Makerspace
 
-### Software
+## Software
 * [Flowgorithm](http://www.flowgorithm.org/)
 * [Repl.it (online REPL)](https://repl.it/)
 * [Visual Studio (Windows Only IDE)](https://www.visualstudio.com/)
@@ -39,4 +41,4 @@ This course provides basic programming concepts using C/C++ programming language
 
 ## Presentation Slides
 * [Course Overview and Introduction](https://docs.google.com/presentation/d/1On_m9Qj4ZeY14r0Kd8TazLDlSPoegiJQjGEe_adF1Bg/edit?usp=sharing)
-* [Programming Basics]
+
