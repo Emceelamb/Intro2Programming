@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+## Welcome to Introduction To Programming
 
-You can use the [editor on GitHub](https://github.com/Emceelamb/intro2programming.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This course provides basic programming concepts using C/C++ programming language, knowledge of data presentation in computing, numeric systems and methods to solve programming problems. Moreover, this course also presents computational thinking, programming styles, approaches to problem solving and instructions to create console applications using the standard I/O routines in C/C++ with MS Visual Studio.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Schedule
 
-### Markdown
+Tuesdays: 7:00 am - 10:30 am
+Location: E1-111
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Contact
 
-```markdown
-Syntax highlighted code block
+Email: marklam.designs@gmail.com
+Find me in A-400A or Javi Makerspace
 
-# Header 1
-## Header 2
-### Header 3
+## Grading
 
-- Bulleted
-- List
+Assignments: 10%
+Exams: 30%
+Participation: 10%
+Final Exam: 50%
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Emceelamb/intro2programming.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
