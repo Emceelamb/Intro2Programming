@@ -29,12 +29,12 @@ This course provides basic programming concepts using C/C++ programming language
 
 ### Software
 * [Flowgorithm](http://www.flowgorithm.org/)
-* [Repl.it (online REPL)](repl.it)
-* [Visual Studio (Windows Only)](https://www.visualstudio.com/)
-* [Eclipse (Cross-Platform)](https://www.eclipse.org/)
+* [Repl.it (online REPL)](https://repl.it/)
+* [Visual Studio (Windows Only IDE)](https://www.visualstudio.com/)
+* [Eclipse (Cross-Platform IDE)](https://www.eclipse.org/)
 
-## [Assignments](../assignments) :triumph:
-* [00 Introduction (Due: 2017_05_09)](../assignments/00_introduction.txt)
+## [Assignments](https://github.com/Emceelamb/Intro2Programming/tree/master/assignments) :triumph:
+* [00 Introduction (Due: 2017_05_09)](https://github.com/Emceelamb/Intro2Programming/tree/master/assignments/00_introduction.txt)
 
 
 ## Presentation Slides
