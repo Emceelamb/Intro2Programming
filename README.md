@@ -1,14 +1,14 @@
 ## Welcome to Introduction To Programming 
 
-## :metal: :computer: :metal: :clap:  :clap:  :clap: :triumph: :triumph: :triumph: :metal: :computer: :metal:
+## :metal: :computer: :metal: :clap:  :clap:  :clap: :triumph: :triumph:  :clap: :clap:  :clap: :triumph: :metal: :computer: :metal:
 
-This English Language course provides basic programming concepts using C/C++ programming language, knowledge of data presentation in computing, numeric systems and methods to solve programming problems. Moreover, this course also presents computational thinking, programming styles, approaches to problem solving and instructions to create console applications using the standard I/O routines in C/C++ with MS Visual Studio.
+This **English Language** course provides basic programming concepts using C/C++ programming language, knowledge of data presentation in computing, numeric systems and methods to solve programming problems. Moreover, this course also presents computational thinking, programming styles, approaches to problem solving and instructions to create console applications using the standard I/O routines in C/C++ with MS Visual Studio.
 
 ## Schedule
 
 :clock7: Tuesdays: 7:00 am - 10:30 am 
 
-:office: Location: E1-111
+:office: Location: E2-111
 
 :sound: Lab Hours: To Be Announced
 
@@ -40,5 +40,16 @@ This English Language course provides basic programming concepts using C/C++ pro
 
 
 ## Presentation Slides
-* [Course Overview and Introduction](https://docs.google.com/presentation/d/1On_m9Qj4ZeY14r0Kd8TazLDlSPoegiJQjGEe_adF1Bg/edit?usp=sharing)
+* [Course Overview and Introduction + Numerical Systems](https://docs.google.com/presentation/d/1On_m9Qj4ZeY14r0Kd8TazLDlSPoegiJQjGEe_adF1Bg/edit?usp=sharing)
 
+## Rough Schedule
+* 00: Introduction to programming (Weeks 0-2)
+* 01: C Basics Chapter (Week 3)
+* 02: Input and Output Chapter (Week 4)
+* 03: Control Statements Chapter (Weeks 5-7)
+* 04: Functions Chapter (Weeks 8-9)
+* 05: Arrays and Strings Chapter (Weeks 10-12)
+* 06: Pointers Chapter Weeks (12-13)
+* 07: Structures Chapter (Week 14)
+* 08: Files input and output (Week 15)
+* Summary and review
