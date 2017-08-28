@@ -19,6 +19,11 @@ Find me in A-400A or Javi Makerspace
 * Participation: 10%
 * Final Exam: 50%
 
+## Resources
+* FHQ English Club
+* Teach|Learn Javi Makerspace
+
 ## Presentation Slides
 
-* [Course Overview and Introduction] (https://docs.google.com/presentation/d/1On_m9Qj4ZeY14r0Kd8TazLDlSPoegiJQjGEe_adF1Bg/edit?usp=sharing)
+* [Course Overview and Introduction](https://docs.google.com/presentation/d/1On_m9Qj4ZeY14r0Kd8TazLDlSPoegiJQjGEe_adF1Bg/edit?usp=sharing)
+* [Programming Basics]
