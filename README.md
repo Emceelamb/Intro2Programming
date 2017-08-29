@@ -16,6 +16,8 @@ This **English Language** course provides basic programming concepts using C/C++
 
 :email: Email: marklam.designs@gmail.com
 
+:website: Website: [markofthelam.com](https://markofthelam.com)
+
 :mag_right: Find me in A-400A or Javi Makerspace
 
 ## Grading
