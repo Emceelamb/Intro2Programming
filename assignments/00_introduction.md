@@ -3,8 +3,9 @@ Write short answer (200 words) about your:
 - Experience in programming
 - What interests you have in programming
 
+* Please tell me if you have any concerns or suggestions for this course.
+
 Reading:
-- http://computer.howstuffworks.com/boolean.htm
 - https://code.tutsplus.com/articles/understanding-bitwise-operators--active-11301
 - [numsys.pdf](tree/master/resources/numsys.pdf)
 
