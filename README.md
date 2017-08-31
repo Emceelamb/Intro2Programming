@@ -16,7 +16,7 @@ This **English Language** course provides basic programming concepts using C/C++
 
 :email: Email: marklam.designs@gmail.com
 
-:website: Website: [markofthelam.com](https://markofthelam.com)
+:hurtrealbad: Website: [markofthelam.com](https://markofthelam.com)
 
 :mag_right: Find me in A-400A or Javi Makerspace
 
@@ -38,7 +38,7 @@ This **English Language** course provides basic programming concepts using C/C++
 * [Eclipse (Cross-Platform IDE)](https://www.eclipse.org/)
 
 ## [Assignments](https://github.com/Emceelamb/Intro2Programming/tree/master/assignments) :triumph:
-* [00 Introduction (Due: 2017_05_09)](https://github.com/Emceelamb/Intro2Programming/tree/master/assignments/00_introduction.txt)
+* [00 Introduction (Due: 2017_05_09)](https://github.com/Emceelamb/Intro2Programming/tree/master/assignments/00_introduction.md)
 
 
 ## Presentation Slides
