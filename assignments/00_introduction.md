@@ -7,6 +7,6 @@ Write short answer (200 words) about your:
 
 Reading:
 - https://code.tutsplus.com/articles/understanding-bitwise-operators--active-11301
-- [numsys.pdf](tree/master/resources/numsys.pdf)
+- [numsys.pdf](../resources/numsys.pdf)
 
 Email: marklam.designs@gmail.com
