@@ -45,6 +45,8 @@ This **English Language** course provides basic programming concepts using C/C++
 * [00 Course Overview and Introduction + Numerical Systems](https://docs.google.com/presentation/d/1On_m9Qj4ZeY14r0Kd8TazLDlSPoegiJQjGEe_adF1Bg/edit?usp=sharing)
 * [01 Conditionals and Flowcharts](https://docs.google.com/presentation/d/1v4EnA2HEkKbW-lY0WTWyGtl0YOJn-JDUqaV8Obq9d9E/edit?usp=sharing)
     - [Operators Example](https://repl.it/KcHN/1)
+    - Bitwise Operations - Theory and Problems of Programming with C (13.2, p-427-437)
+    - 
 
 ## Rough Schedule
 * 00: Introduction to programming (Weeks 0-2)
