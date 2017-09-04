@@ -30,6 +30,7 @@ This **English Language** course provides basic programming concepts using C/C++
 ## Resources
 * FHQ English Club
 * Teach Learn Javi Makerspace
+* [Syllabus](https://github.com/Emceelamb/Intro2Programming/blob/master/resources/syllabus.doc)
 
 ## Software
 * [Flowgorithm](http://www.flowgorithm.org/)
@@ -38,7 +39,8 @@ This **English Language** course provides basic programming concepts using C/C++
 * [Eclipse (Cross-Platform IDE)](https://www.eclipse.org/)
 
 ## [Assignments](https://github.com/Emceelamb/Intro2Programming/tree/master/assignments) :triumph:
-* [00 Introduction (Due: 2017_05_09)](https://github.com/Emceelamb/Intro2Programming/tree/master/assignments/00_introduction.md)
+* [00 Introduction (Due: 2017_09_05)](https://github.com/Emceelamb/Intro2Programming/tree/master/assignments/00_introduction.md)
+* [01 Pre-Programming Exercises (Due: 2017_09_11)](https://github.com/Emceelamb/Intro2Programming/tree/master/assignments/01_preprogrammingexercises.md)
 
 
 ## Presentation Slides
