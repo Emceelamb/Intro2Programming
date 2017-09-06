@@ -31,6 +31,9 @@ This **English Language** course provides basic programming concepts using C/C++
 * FHQ English Club
 * Teach Learn Javi Makerspace
 * [Syllabus](https://github.com/Emceelamb/Intro2Programming/blob/master/resources/syllabus.doc)
+* Texts:
+    * [The C Programming Language](https://github.com/Emceelamb/Intro2Programming/blob/master/resources/texts/ProgrammingLanguageAnsiC.pdf)
+    * [Theories and Problems of Learning C](https://github.com/Emceelamb/Intro2Programming/blob/master/resources/texts/Theory%20and%20Problems%20of%20Programming%20with%20C.pdf)
 
 ## Software
 * [Flowgorithm](http://www.flowgorithm.org/)
