@@ -40,7 +40,7 @@ This **English Language** course provides basic programming concepts using C/C++
 
 ## [Assignments](https://github.com/Emceelamb/Intro2Programming/tree/master/assignments) :triumph:
 * [00 Introduction (Due: 2017_09_05)](https://github.com/Emceelamb/Intro2Programming/tree/master/assignments/00_introduction.md)
-* [01 Pre-Programming Exercises (Due: 2017_09_11)](https://github.com/Emceelamb/Intro2Programming/blob/master/assignments/01_preprogramming_exercises.md
+* [01 Pre-Programming Exercises (Due: 2017_09_11)](https://github.com/Emceelamb/Intro2Programming/blob/master/assignments/01_preprogramming_exercises.md)
 
 
 ## Presentation Slides
