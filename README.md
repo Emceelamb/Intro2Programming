@@ -40,7 +40,7 @@ This **English Language** course provides basic programming concepts using C/C++
 
 ## [Assignments](https://github.com/Emceelamb/Intro2Programming/tree/master/assignments) :triumph:
 * [00 Introduction (Due: 2017_09_05)](https://github.com/Emceelamb/Intro2Programming/tree/master/assignments/00_introduction.md)
-* [01 Pre-Programming Exercises (Due: 2017_09_11)](https://github.com/Emceelamb/Intro2Programming/tree/master/assignments/01_preprogrammingexercises.md)
+* [01 Pre-Programming Exercises (Due: 2017_09_11)](https://github.com/Emceelamb/Intro2Programming/blob/master/assignments/01_preprogramming_exercises.md
 
 
 ## Presentation Slides
@@ -48,7 +48,7 @@ This **English Language** course provides basic programming concepts using C/C++
 * [01 Conditionals and Flowcharts](https://docs.google.com/presentation/d/1v4EnA2HEkKbW-lY0WTWyGtl0YOJn-JDUqaV8Obq9d9E/edit?usp=sharing)
     - [Operators Example](https://repl.it/KcHN/1)
     - Bitwise Operations - Theory and Problems of Programming with C (13.2, p-427-437)
-    - [Fizzbuzz C example](https://repl.it/KhN9/2)
+    - [Fizzbuzz C example](https://repl.it/KhN9/4)
 
 ## Rough Schedule
 * 00: Introduction to programming (Weeks 0-2)
