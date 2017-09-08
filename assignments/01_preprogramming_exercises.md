@@ -6,6 +6,7 @@ You can work with a partner to complete this.
 
 Each pair submit once by emailing marklam.designs@gmail.com before next class, 2017_09_12. Write your name and partner.
 
+*Assume all numbers are different
 
 1. Enter two numbers a, b. Find the largest number and output to the screen.
 2. Enter the two numbers a, b. Sum and output to the screen.
