@@ -14,6 +14,7 @@ Each pair submit once by emailing marklam.designs@gmail.com before next class, 2
 4. Enter the four numbers a, b, c, d. Find and export largest to screen.
 5. Enter the three numbers a, b, c. Find and output the smallest digit.
 6. Enter the three numbers a, b, c. Find and output the second largest number.
+
 6.1. Enter 3 numbers a, b, c. Check if the lengths form a triangle.
 7. Enter the three sides a, b, c. What is the type of triangle?
 8. Give the equation ax + b = 0
