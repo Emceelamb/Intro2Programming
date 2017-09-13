@@ -54,6 +54,7 @@ This **English Language** course provides basic programming concepts using C/C++
     - Bitwise Operations - Theory and Problems of Programming with C (13.2, p-427-437)
     - [Fizzbuzz C example](https://repl.it/KhN9/4)
 * [02 Introduction to C](https://docs.google.com/presentation/d/1TYXMDyB84cAHA0qmZIeguSAvhIUcTO-q54ZC6_vSMvw/edit?usp=sharing)
+* [03 Advanced Flowcharts](https://github.com/Emceelamb/Intro2Programming/blob/master/assignments/02_advanced_flowcharts.md)
 
 ## Rough Schedule
 * 00: Introduction to programming (Weeks 0-2)
