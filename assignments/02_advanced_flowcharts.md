@@ -7,7 +7,7 @@ Use loop statements to solve the following:
 4. T(x,n) = x<sup>n</sup>
 5. List all factors of a number
 6. Count all odd factors of a number
-7. Find greatest odd factor of a number
+7. Find greatest factor of a number
 8. Check if number is a square
 9. For n > 0, find first digit of n
 10. Correct all flowcharts from last week
