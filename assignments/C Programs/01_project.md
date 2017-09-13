@@ -1,6 +1,6 @@
 **C Programs**
 1. Enter the integer n, output the absolute value of n.
-2. Enter the length and width (real number) of a rectangle, output the circumference of that rectangle (two odd digits).
+2. Enter the length and width (real number) of a rectangle, output the perimeter of that rectangle.
 3. Enter two integers a, b. Output the largest number.
 4. Enter three integers h, m, s. Check that h, m, s are set to a valid hour, minutes, seconds.
 5. Enter the three real numbers a, b, c. Check if a, b, c the three sides of a triangle?
