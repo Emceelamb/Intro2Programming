@@ -46,6 +46,7 @@ This **English Language** course provides basic programming concepts using C/C++
 * [01 Pre-Programming Exercises (Due: 2017_09_11)](https://github.com/Emceelamb/Intro2Programming/blob/master/assignments/01_preprogramming_exercises.md)
     * Read: [The C Programming Language. Chapter 1 Tutorial pp 9-29](https://github.com/Emceelamb/Intro2Programming/blob/master/resources/texts/ProgrammingLanguageAnsiC.pdf)
 * [02 Advanced Flowchart](https://github.com/Emceelamb/Intro2Programming/blob/master/assignments/02_advanced_flowcharts.md)
+* [03 C Programs](https://github.com/Emceelamb/Intro2Programming/blob/master/assignments/C%20Programs/01_project.md)
 
 ## Presentation Slides
 * [00 Course Overview and Introduction + Numerical Systems](https://docs.google.com/presentation/d/1On_m9Qj4ZeY14r0Kd8TazLDlSPoegiJQjGEe_adF1Bg/edit?usp=sharing)
